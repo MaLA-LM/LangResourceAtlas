@@ -15,7 +15,7 @@ The categorization in `LangResourceAtlas` is informed by a careful analysis an
 - **MaLA Corpus:** A multilingual corpus (including both monolingual and parallel), designed for adapting language models into massively multilingual scenario.
 - **Joshi et al. (2020)**: A study that looks at the relation between the types of languages, resources, and their representation in NLP conferences to understand the trajectory that different languages have followed over time. [Joshi, P., Santy, S., Budhiraja, A., Bali, K., & Choudhury, M. (2020). The state and fate of linguistic diversity and inclusion in the NLP world. *arXiv preprint arXiv:2004.09095*.](https://arxiv.org/abs/2004.09095)
 - **DCAD-2000**: TODO
-- **Glot500-c**: TODO
+- **Glot500-c**: Head languages if supported by XLM-R; otherwise, tail languages.
 
 # Contributing
 
